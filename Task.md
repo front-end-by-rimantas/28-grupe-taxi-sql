@@ -23,13 +23,21 @@ Lentele uzpildyti tokia informacija (eiliskumas atitinka struktura):
 ## Uzduotys
 
 1. Isspausdinti, kiek buvo kelioniu
-   pvz.: Visi taksiskai bendrai ivykde 2 keliones.
+
+pvz.: Visi taksiskai bendrai ivykde 2 keliones.
 
 2. Isspausdinti, visu taksistu vardus
-   pvz.: Taksistais dirba: Vardenis, Vardenis, Vardenis.
+
+pvz.: Taksistais dirba: Vardenis, Vardenis, Vardenis.
 
 3. Isspausdinti, koki atstuma nuvaziavo visu kelioniu metu
-   pvz.: Visu kelioniu metu nuvaziuota 50.124 km.
+
+pvz.: Visu kelioniu metu nuvaziuota 50.124 km.
 
 4. Isspausdinti, koks yra vidutinis Jono ivertinimas
-   pvz.: Jono ivertinimas yra 4.7 zvaigzdutes.
+
+pvz.: Jono ivertinimas yra 4.7 zvaigzdutes.
+
+5. Isspausdinti, kokia yra vidutine kelioniu kaina
+
+pvz.: Vidutine kelioniu kaina yra 2.50 EUR/km.
