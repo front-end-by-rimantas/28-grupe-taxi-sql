@@ -38,6 +38,6 @@ pvz.: Visu kelioniu metu nuvaziuota 50.124 km.
 
 pvz.: Jono ivertinimas yra 4.7 zvaigzdutes.
 
-**5.** _Isspausdinti, kokia yra vidutine kelioniu kaina_
+**5.** _Isspausdinti, kokia yra vidutine kelioniu kilometro kaina_
 
 pvz.: Vidutine kelioniu kaina yra 2.50 EUR/km.
